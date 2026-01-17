@@ -1,0 +1,8 @@
+streamlit
+moviepy
+librosa
+mediapipe
+google-generativeai
+numpy
+opencv-python
+python-dotenv
