@@ -35,8 +35,9 @@ PulsePoint AI is a content repurposing tool that takes long-form video content a
 ## Tech Stack
 
 -   **Frontend**: Streamlit
--   **AI/LLM**: Google Gemini 1.5 Pro (via `google-generativeai`)
+-   **AI/LLM**: Google Gemini 2.5 Pro (via `google-generativeai`)
 -   **Computer Vision**: MediaPipe (Face Detection)
 -   **Audio Processing**: Librosa
 -   **Video Editing**: MoviePy
+
 
